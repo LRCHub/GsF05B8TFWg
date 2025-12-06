@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "More Than You Know",
+  "base_artist": "Axwell /\\ Ingrosso、Sebastian Ingrosso",
+  "createdAt": "2025-12-06T11:26:00.705278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "More Than You Know",
+      "artist": "Cher",
+      "has_synced": false,
+      "path": "select/01_More_Than_You_Know_Cher.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "More Than You Know",
+      "artist": "Spoken",
+      "has_synced": true,
+      "path": "select/02_More_Than_You_Know_Spoken.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "More Than You Know",
+      "artist": "Maysa",
+      "has_synced": true,
+      "path": "select/03_More_Than_You_Know_Maysa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "More Than You Know",
+      "artist": "Axwell /\\ Ingrosso",
+      "has_synced": true,
+      "path": "select/04_More_Than_You_Know_Axwell___Ingrosso.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "More Than You Know",
+      "artist": "Adestria",
+      "has_synced": true,
+      "path": "select/05_More_Than_You_Know_Adestria.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "more than you know",
+      "artist": "HOAX",
+      "has_synced": true,
+      "path": "select/06_more_than_you_know_HOAX.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "More Than You Know",
+      "artist": "Martika",
+      "has_synced": true,
+      "path": "select/07_More_Than_You_Know_Martika.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "More Than You Know",
+      "artist": "Martika",
+      "has_synced": true,
+      "path": "select/08_More_Than_You_Know_Martika.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "More Than You Know",
+      "artist": "Anita Baker",
+      "has_synced": true,
+      "path": "select/09_More_Than_You_Know_Anita_Baker.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "More Than You Know",
+      "artist": "J.Fla",
+      "has_synced": true,
+      "path": "select/10_More_Than_You_Know_J.Fla.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "More Than You Know",
+      "artist": "Johnny Mathis",
+      "has_synced": false,
+      "path": "select/11_More_Than_You_Know_Johnny_Mathis.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "More Than You Know",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/12_More_Than_You_Know_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "More Than You Know",
+      "artist": "Stanley Turrentine",
+      "has_synced": false,
+      "path": "select/13_More_Than_You_Know_Stanley_Turrentine.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "More Than You Know",
+      "artist": "Axwell /\\ Ingrosso",
+      "has_synced": false,
+      "path": "select/pl_01_More_Than_You_Know_Axwell___Ingrosso.txt"
+    }
+  ]
+}
